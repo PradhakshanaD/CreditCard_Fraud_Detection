@@ -2,7 +2,7 @@
 
 ## Description:
 This repository contains the code for a machine learning project aimed at detecting fraudulent credit card transactions. The project utilizes various machine learning algorithms implemented in Python, along with popular libraries such as scikit-learn, XGBoost, numpy, pandas, matplotlib, and seaborn. The project utilizes a dataset from Kaggle, which includes anonymized credit card transactions labeled as fraudulent or legitimate. 
-Here is the link to the dataset --> ![Link](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+Here is the link to the dataset --> [Credit Card Fraud Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 ## Key Features:
 
